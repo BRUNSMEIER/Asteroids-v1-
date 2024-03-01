@@ -1,0 +1,8 @@
+.vs/
+Library/
+Packages/
+Logs/
+Temp/
+ProjectSettings/
+obj/
+venv/
